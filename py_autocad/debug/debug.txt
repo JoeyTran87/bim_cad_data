@@ -1,0 +1,291 @@
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+['*Active']
+*Active
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 1908.2364535370348x1738.426758005374
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 6.26061828588266x5.703499862222356
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 1908x1738
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 1908 x 1738
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+Program START
+Autocad Opened
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+Program START
+Autocad Opened
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+['CB-210603', 'Model']
+CB-210603
+AcDbViewport 841 x 594
+2021-06-03 Combine dot dieu chinh sau chot mb kien truc xuong 2.dwg
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+220210602A01XUONG2FACTORY2SHOP.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+x-01-xuong 2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+Drawing2.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+SPN_ZONING PLAN_R6_20210919.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+SPN_ZONING PLAN_R6_20210919.dwg
+['*Model_Space', '*Paper_Space']
+Program START
+Autocad Opened
+new block.dwg
+['*Model_Space', '*Paper_Space']

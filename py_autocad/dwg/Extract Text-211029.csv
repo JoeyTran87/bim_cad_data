@@ -1,0 +1,433 @@
+﻿Count,Name,Author,Color,Comments,Contents,ContentsRTF,Drawing Revision Number,EdgeStyleId,FaceStyleId,File Accessed,File Created,File Last Saved By,File Location,File Modified,File Name,File Size,Hyperlink,Hyperlink Base,Keywords,Layer,Linetype,Linetype Scale,Lineweight,Material,Plot Style,Position X,Position Y,Position Z,Rotation,ShowBorders,Subject,Title,Total Editing Time,VisualStyleId,Width,Height,Obliquing,Position X1,Position Y1,Position Z1,Style,Thickness,Value,Width Factor
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,117.116,207.643,0.000,Standard,0.000,8.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,98.507,198.669,0.000,Standard,0.000,8.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,107.812,203.156,0.000,Standard,0.000,8.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,145.028,221.105,0.000,Standard,0.000,8.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,135.724,216.618,0.000,Standard,0.000,8.3,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,126.420,212.130,0.000,Standard,0.000,8.4,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,89.203,194.181,0.000,Standard,0.000,8.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,142.677,102.326,0.000,Standard,0.000,9.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,200.871,280.470,0.000,Standard,0.000,7.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,193.155,238.563,0.000,Standard,0.000,7.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,200.549,224.789,0.000,Standard,0.000,7.75,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,217.611,195.796,0.000,Standard,0.000,7.85,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,233.864,167.596,0.000,Standard,0.000,7.95,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,184.763,179.657,0.000,Standard,0.000,8.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,194.822,184.374,0.000,Standard,0.000,8.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,204.470,188.804,0.000,Standard,0.000,8.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,156.704,167.831,8.500,Standard,0.000,8.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,167.072,171.626,0.000,Standard,0.000,8.4,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,175.030,176.129,0.000,Standard,0.000,8.3,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,213.323,192.535,0.000,Standard,0.000,7.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,172.941,234.567,0.000,Standard,0.000,7.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,163.636,230.079,0.000,Standard,0.000,8.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,154.332,225.592,0.000,Standard,0.000,8.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,95.273,137.204,0.000,Standard,0.000,9.15,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,79.899,189.694,0.000,Standard,0.000,8.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,182.245,239.054,0.000,Standard,0.000,7.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,103.949,118.411,0.000,Standard,0.000,9.20,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,119.519,90.571,0.000,Standard,0.000,9.30,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,151.810,107.186,0.000,Standard,0.000,9.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,168.667,116.222,0.000,Standard,0.000,8.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,159.805,111.320,0.000,Standard,0.000,8.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,131.269,95.768,0.000,Standard,0.000,9.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,107.678,83.717,0.000,Standard,0.000,9.25,1.000
+1,MText,,ByBlock,,\pxqc;BT2 -30,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -30\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,143.145,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,ByBlock,,\pxqc;BT2 -29,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -29\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,135.945,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,ByBlock,,BT1-14,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 BT1-14\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,211.938,23.229,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,85.183,156.541,0.000,Standard,0.000,9.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,56.740,210.382,0.000,Standard,0.000,8.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,32.765,252.230,0.000,Standard,0.000,8.80,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,70.595,185.207,0.000,Standard,0.000,9.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,43.695,237.029,0.000,Standard,0.000,8.85,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,207.223,135.960,0.000,Standard,0.000,8.4,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,209.581,210.400,0.000,Standard,0.000,7.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,180.630,263.342,0.000,Standard,0.000,7.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,224.755,182.410,0.000,Standard,0.000,7.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,216.176,140.958,0.000,Standard,0.000,8.3,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,188.818,127.091,0.000,Standard,0.000,8.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,178.317,120.917,0.000,Standard,0.000,8.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,198.196,131.405,0.000,Standard,0.000,8.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,223.666,145.511,0.000,Standard,0.000,8.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,231.748,149.240,0.000,Standard,0.000,8.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,240.236,153.941,0.000,Standard,0.000,8.0,1.000
+1,MText,,ByBlock,,TM3-12,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-12\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,115.019,30.577,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-11,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-11\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,108.055,31.121,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,102.646,30.815,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-15,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-15\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,137.623,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-14,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-14\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,130.928,30.921,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-13,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-13\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,125.106,30.726,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,96.646,30.815,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,186.643,222.884,0.000,Standard,0.000,7.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,177.339,218.397,0.000,Standard,0.000,8.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,168.034,213.909,0.000,Standard,0.000,8.1,1.000
+1,MText,,ByBlock,,TM3-08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,90.646,30.815,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,85.250,173.633,0.000,Standard,0.000,9.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,93.601,178.011,0.000,Standard,0.000,8.9,1.000
+1,MText,,ByBlock,,TM3-03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,47.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,38.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,29.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,72.696,30.816,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,62.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,56.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-21,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-21\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,183.705,30.816,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-18,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-18\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,154.856,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-17,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-17\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,149.934,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-16,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-16\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,142.434,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,83.696,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-20,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-20\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,175.811,30.816,0.700,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,TM3-19,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 TM3-19\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,166.856,30.816,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,198.293,159.027,0.000,Standard,0.000,8.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,208.352,163.745,0.000,Standard,0.000,8.1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,217.999,168.174,0.000,Standard,0.000,8.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,170.234,147.202,8.500,Standard,0.000,8.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,180.602,150.996,0.000,Standard,0.000,8.4,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,188.559,155.500,0.000,Standard,0.000,8.3,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,226.853,171.906,0.000,Standard,0.000,7.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,129.933,153.968,0.000,Standard,0.000,8.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,138.800,158.865,0.000,Standard,0.000,8.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,147.600,162.920,0.000,Standard,0.000,8.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,101.798,139.980,0.000,Standard,0.000,9,1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,111.512,144.761,0.000,Standard,0.000,9.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,121.098,150.028,8.500,Standard,0.000,8.9,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,130.818,195.960,0.000,Standard,0.000,8.5,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,112.209,186.986,0.000,Standard,0.000,8.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,121.514,191.473,0.000,Standard,0.000,8.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,158.730,209.422,0.000,Standard,0.000,8.2,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,149.426,204.935,0.000,Standard,0.000,8.3,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,140.122,200.448,0.000,Standard,0.000,8.4,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,102.905,182.498,0.000,Standard,0.000,8.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,143.462,133.339,0.000,Standard,0.000,8.8,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,152.330,138.235,0.000,Standard,0.000,8.7,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,161.130,142.290,0.000,Standard,0.000,8.6,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,115.327,119.350,0.000,Standard,0.000,9,1,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,125.041,124.131,0.000,Standard,0.000,9.0,1.000
+1,Text,,ByBlock,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByBlock,,,,328,,,,19681,(0),,2.000,0,134.628,129.398,8.500,Standard,0.000,8.9,1.000
+1,MText,,255,0,0,,7F,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 7F\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,171.293,208.173,0.000,328,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,{\fArial|b0|i0|c163|p34;5}F,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 {\f0 \b0 \i0 5}F\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,187.293,208.100,0.000,328,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,{\fArial|b0|i0|c163|p34;3}F,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 {\f0 \b0 \i0 3}F\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,203.293,208.027,0.000,328,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,57.285,174.527,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,BT1-01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,206.641,169.133,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,7F,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 7F\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,69.392,208.074,0.000,328,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,Water feature,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 Water feature\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,166.092,131.968,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,209.543,89.186,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,209.289,96.181,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,208.745,111.171,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,Pool,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 Pool\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,124.591,131.096,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,Pool,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 Pool\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,76.810,130.374,0.000,270,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,210.088,74.196,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,93.171,108.848,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,79.061,104.133,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,66.405,99.356,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -13,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -13\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,150.752,108.213,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -12,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -12\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,135.153,106.233,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -11,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -11\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,107.773,106.194,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,166.668,146.300,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,92.889,142.069,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,79.626,145.892,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,66.047,151.225,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,151.573,141.610,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,136.011,143.853,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,107.750,144.527,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,TM1-10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.481,155.410,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.508,161.410,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.532,166.523,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.310,118.030,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-12,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-12\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.406,138.903,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-11,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-11\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.447,147.903,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.563,173.410,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.713,206.241,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.754,215.241,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-01,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-01\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.795,224.203,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.586,178.397,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.635,185.164,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM1-04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM1-04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.672,197.241,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,206.895,162.138,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,27.993,48.512,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.034,57.512,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,208.491,118.167,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,207.693,140.152,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,BT1-03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 BT1-03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,207.439,147.148,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.075,66.512,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.208,95.474,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.235,101.473,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.269,109.030,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.117,75.512,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.153,83.474,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,255,0,0,,TM2-05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 TM2-05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,28.180,89.474,0.000,0,False,,,19681,(0),4.719,,,,,,,,,
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-66.585,242.077,0.000,Standard,0.000,9.05,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-84.538,251.550,0.000,Standard,0.000,TM1A      ,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,ViewKhung,ByLayer,0.500,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,255.982,175.508,0.000,STYLE3,0.000,5,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,caodo,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-48.497,232.533,0.000,Standard,0.000,8.95,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-69.167,237.183,0.000,Standard,0.000,9.25,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-87.120,246.656,0.000,Standard,0.000,TM1B,C      ,1.000
+1,Text,,ByLayer,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,ByLayer,,,,332,,,,19681,(0),,7.135,0,284.425,198.240,0.000,TEXT HUYEN,0.000,b,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,ViewKhung,ByLayer,0.500,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,273.146,166.451,0.000,STYLE3,0.000,25,1.000
+1,MText,,255,0,0,,\pxqc;BT2 -28,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -28\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,103.146,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -27,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -27\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,95.946,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,ViewKhung,ByLayer,0.500,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,295.267,154.780,0.000,STYLE3,0.000,50,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,ViewKhung,ByLayer,0.500,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,259.838,173.473,0.000,STYLE3,0.000,10,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,ViewKhung,ByLayer,0.500,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,251.871,177.677,0.000,STYLE3,0.000,0,1.000
+1,MText,,ByBlock,,BT1-10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 BT1-10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,210.342,67.200,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,\pxqc;BT2 -34,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -34\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,183.145,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,ByBlock,,\pxqc;BT2 -33,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -33\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,175.945,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,ByBlock,,BT1-13,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 BT1-13\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,211.684,30.225,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,BT1-12,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 BT1-12\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,212.139,45.251,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,BT1-11,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 BT1-11\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,210.886,52.210,0.000,2,False,,,19681,(0),4.719,,,,,,,,,
+1,MText,,ByBlock,,\pxqc;BT2 -32,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -32\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,163.145,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-43.407,244.384,0.000,Standard,0.000,MẶT HÈ HOÀN THIỆN,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-65.811,249.504,0.000,Standard,0.000,%%P0.000,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,caodo,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-28.587,222.029,0.000,Standard,0.000,8.9,1.000
+1,MText,,ByBlock,,\pxqc;BT2 -31,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue0;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -31\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,ByBlock,155.945,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-45.316,238.886,0.000,Standard,0.000,CAO,1.000
+1,Text,,255,0,0,,,,,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,,Color_1,,,,332,,,,19681,(0),,2.000,0,-28.425,229.973,0.000,Standard,0.000,THẤP,1.000
+1,MText,,255,0,0,,\pxqc;BT2 -10,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -10\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,178.028,173.977,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -09,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -09\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,170.828,174.010,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -08,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -08\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,149.471,171.107,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -13,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -13\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,75.946,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -12,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -12\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,63.146,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -11,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -11\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,55.946,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -07,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -07\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,142.271,171.140,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -03,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -03\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,86.271,171.395,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -02,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -02\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,64.485,174.495,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT3 -14,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT3 -14\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,164.859,103.829,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -06,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -06\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,121.462,169.235,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -05,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -05\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,114.262,169.267,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -04,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -04\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,93.471,171.362,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -23,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -23\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,55.946,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -22,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -22\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,183.145,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -21,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -21\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,175.945,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -26,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -26\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,83.146,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -25,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -25\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,75.946,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -24,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -24\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,63.146,52.118,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -20,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -20\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,163.145,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -16,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -16\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,103.146,79.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -15,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -15\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,95.946,79.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -14,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -14\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,83.146,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -19,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -19\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,155.945,77.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -18,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -18\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,143.145,79.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,
+1,MText,,255,0,0,,\pxqc;BT2 -17,{\rtf1\ansi{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}
+{\colortbl\red0\green0\blue255;}
+\pard\plain\f0\cf0\fs48 \qc BT2 -17\par },,(0),(0),29/10/2021 10:23:37 PM,29/10/2021 10:23:37 PM,USER,F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg,29/10/2021 10:23:37 PM,Extract Text-211029.dwg,187680,,,,0,ByLayer,1.000,ByLayer,ByLayer,Color_1,135.945,79.018,0.000,0,False,,,19681,(0),6.121,,,,,,,,,

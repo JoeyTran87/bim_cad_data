@@ -1,0 +1,139 @@
+Program START
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program START : 29-10-2021 22:37:50
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 29-10-2021 22:37:53
+--------------------
+Program START : 29-10-2021 22:54:48
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 29-10-2021 22:58:21
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 29-10-2021 22:59:31
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 29-10-2021 23:39:51
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+ObjectName-29-10-2021 23:44:46
+--------------------
+Program START : 02-11-2021 22:18:34
+Autocad Opened
+Drawing1.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:19:11
+--------------------
+Program START : 02-11-2021 22:19:35
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:20:24
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:22:13
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:22:19
+--------------------
+Program START : 02-11-2021 22:23:14
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:23:31
+--------------------
+Program START : 02-11-2021 22:25:51
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:25:56
+--------------------
+Program START : 02-11-2021 22:29:35
+Autocad Opened
+--------------------
+Program START : 02-11-2021 22:30:17
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:30:22
+--------------------
+Program START : 02-11-2021 22:31:55
+Autocad Opened
+Extract Text-211029-burst all.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:32:04
+--------------------
+Program START : 02-11-2021 22:32:54
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:33:04
+--------------------
+Program START : 02-11-2021 22:35:33
+Autocad Opened
+--------------------
+Program START : 02-11-2021 22:35:45
+Autocad Opened
+--------------------
+Program START : 02-11-2021 22:35:51
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:37:35
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:37:42
+--------------------
+Program START : 02-11-2021 22:49:05
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:50:18
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:50:52
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:53:31
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:55:00
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+--------------------
+Program START : 02-11-2021 22:55:50
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:55:56
+--------------------
+Program START : 02-11-2021 22:57:08
+Autocad Opened
+Extract Text-211029.dwg
+['*Model_Space', '*Paper_Space']
+Program END : 02-11-2021 22:57:15
