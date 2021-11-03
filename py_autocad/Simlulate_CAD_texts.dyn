@@ -1,0 +1,389 @@
+{
+  "Uuid": "6a0cec2e-acaf-4988-a856-63a3a3b7a609",
+  "IsCustomNode": false,
+  "Description": null,
+  "Name": "Simlulate_CAD_texts",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DSOffice.Data.ImportExcel@var,string,bool,bool",
+      "Id": "c5878c225cc14cd3be6fff36d470d16a",
+      "Inputs": [
+        {
+          "Id": "6bc021d2246b453a81b1db9793eb0c8c",
+          "Name": "file",
+          "Description": "File representing the Microsoft Excel spreadsheet.\n\nvar",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "eb8560644b5b4045b9656a936d3f12f9",
+          "Name": "sheetName",
+          "Description": "Name of the worksheet containing the data.\n\nstring",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "7bbb1bcc9598424db360dbecee711409",
+          "Name": "readAsStrings",
+          "Description": "Toggle to switch between reading Excel file as strings.\n\nbool\nDefault value : false",
+          "UsingDefaultValue": true,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "374471372a6240f7a676a6b5113eaaf3",
+          "Name": "showExcel",
+          "Description": "Toggle to switch between showing and hiding the main Excel window.\n\nbool\nDefault value : true",
+          "UsingDefaultValue": true,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "2931ed081adf40e1805aacd2c29300ab",
+          "Name": "data",
+          "Description": "Rows of data from the Excel worksheet.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Read data from a Microsoft Excel spreadsheet. Data is read by row and returned in a series of lists by row. Rows and columns are zero-indexed; for example, the value in cell A1 will appear in the data list at [0,0]. This node requires Microsoft Excel to be installed.\n\nData.ImportExcel (file: var, sheetName: string, readAsStrings: bool = false, showExcel: bool = true): var[][]"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.FileObject, CoreNodeModels",
+      "NodeType": "ExtensionNode",
+      "Id": "f520cf8771474910a5ace5d0d95ca514",
+      "Inputs": [
+        {
+          "Id": "ad7b91860f5b45a5a9e03eb962c78cc0",
+          "Name": "path",
+          "Description": "Path to the file.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "0967f75533eb4082ae4362b84024f322",
+          "Name": "file",
+          "Description": "File object",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Creates a file object from a path."
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.Filename, CoreNodeModels",
+      "HintPath": "D:\\OneDrive - COFICO\\+WFH\\bim_cad_data\\Extract_Text_data - Copy.xlsx",
+      "InputValue": "..\\Extract_Text_data - Copy.xlsx",
+      "NodeType": "ExtensionNode",
+      "Id": "68b04cb3a1704fe9b95b9b5b21b2cd04",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "ddbb489e264e418abca326d56f9554cc",
+          "Name": "",
+          "Description": "Filename",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Allows you to select a file on the system to get its filename"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.StringInput, CoreNodeModels",
+      "NodeType": "StringInputNode",
+      "InputValue": "Sheet Name",
+      "Id": "58aebef6a8b44dc393c65621a2411e72",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "d796ea7fc94342cf85174dc50b106e9f",
+          "Name": "",
+          "Description": "String",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Creates a string."
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
+      "NodeType": "BooleanInputNode",
+      "InputValue": true,
+      "Id": "dafa82dbbe0a4958bbc12b3b91df3b95",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "7a14d08507bb462faffefc8931b966ca",
+          "Name": "",
+          "Description": "Boolean",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Selection between a true and false."
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.BoolSelector, CoreNodeModels",
+      "NodeType": "BooleanInputNode",
+      "InputValue": false,
+      "Id": "be42fa56b35d4734b09185cc52b8d190",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "994f4807398a484ea263f2f6e6fcba5e",
+          "Name": "",
+          "Description": "Boolean",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Selection between a true and false."
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
+      "NodeType": "ExtensionNode",
+      "Id": "b7639a8300154c86bf41e04be105a9c2",
+      "Inputs": [
+        {
+          "Id": "b101a223ac0e4daea4d077dc59f09591",
+          "Name": "",
+          "Description": "Node to evaluate.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "e7b2fd1517464844961605828bc9c25d",
+          "Name": "",
+          "Description": "Watch contents.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Visualize the output of node."
+    },
+    {
+      "ConcreteType": "PythonNodeModels.PythonNode, PythonNodeModels",
+      "NodeType": "PythonScriptNode",
+      "Code": "# Load the Python Standard and DesignScript Libraries\r\nimport sys\r\nimport clr\r\nclr.AddReference('ProtoGeometry')\r\nfrom Autodesk.DesignScript.Geometry import *\r\n\r\n# The inputs to this node will be stored as a list in the IN variables.\r\ndataEnteringNode = IN\r\ndata = IN[0]\r\ndic_ = {}\r\npoints = []\r\nlines = []\r\norigin = Point.ByCoordinates(0,0)\r\n\r\nfor d in data[1:]:\r\n\ttry:\r\n\t\tx = float(d[3])\r\n\t\ty = float(d[4])\r\n\t\tpt = Point.ByCoordinates(x,y)\r\n\t\tpoints.append(pt)\r\n\t\tlines.append(Line.ByStartPointEndPoint(origin,pt))\r\n\texcept:\r\n\t\tpass\r\n\t\r\n\t\r\n# Place your code below this line\r\n\r\n# Assign your output to the OUT variable.\r\nOUT = points,lines",
+      "Engine": "IronPython2",
+      "VariableInputPorts": true,
+      "Id": "e35d564e2eb349fe916a9e17277855c3",
+      "Inputs": [
+        {
+          "Id": "c23e3feb15e943bdab042d37a35280dc",
+          "Name": "IN[0]",
+          "Description": "Input #0",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "d53a887aa8ca4086a1f3187079050b72",
+          "Name": "OUT",
+          "Description": "Result of the python script",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Runs an embedded Python script."
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "2931ed081adf40e1805aacd2c29300ab",
+      "End": "b101a223ac0e4daea4d077dc59f09591",
+      "Id": "03c5531006b84c929d109a54d461ce58"
+    },
+    {
+      "Start": "2931ed081adf40e1805aacd2c29300ab",
+      "End": "c23e3feb15e943bdab042d37a35280dc",
+      "Id": "72834f99b0bf4061962fab73225790e6"
+    },
+    {
+      "Start": "0967f75533eb4082ae4362b84024f322",
+      "End": "6bc021d2246b453a81b1db9793eb0c8c",
+      "Id": "dc36294ff0c54bf98ef33581e148c7f1"
+    },
+    {
+      "Start": "ddbb489e264e418abca326d56f9554cc",
+      "End": "ad7b91860f5b45a5a9e03eb962c78cc0",
+      "Id": "bbb17311f86d4dd0ac77e0869c7117e0"
+    },
+    {
+      "Start": "d796ea7fc94342cf85174dc50b106e9f",
+      "End": "eb8560644b5b4045b9656a936d3f12f9",
+      "Id": "1fba4d34a52e4f14b8c9838bb94a3bbd"
+    },
+    {
+      "Start": "7a14d08507bb462faffefc8931b966ca",
+      "End": "7bbb1bcc9598424db360dbecee711409",
+      "Id": "746a9efd9ee04e3a9695138a92194cf8"
+    },
+    {
+      "Start": "994f4807398a484ea263f2f6e6fcba5e",
+      "End": "374471372a6240f7a676a6b5113eaaf3",
+      "Id": "0488beaa9c864dc6976a53e988ab89d8"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [],
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 10000.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.10.0.3455",
+      "RunType": "Manual",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "Background Preview",
+      "EyeX": 7753.51953125,
+      "EyeY": 45317.09375,
+      "EyeZ": 17875.5390625,
+      "LookX": -2120.666015625,
+      "LookY": -46294.35546875,
+      "LookZ": -17756.3203125,
+      "UpX": -0.098888948559761047,
+      "UpY": 0.551936686038971,
+      "UpZ": -0.82800179719924927
+    },
+    "NodeViews": [
+      {
+        "ShowGeometry": true,
+        "Name": "Data.ImportExcel",
+        "Id": "c5878c225cc14cd3be6fff36d470d16a",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 371.0,
+        "Y": 357.0
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "File From Path",
+        "Id": "f520cf8771474910a5ace5d0d95ca514",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 208.0,
+        "Y": 286.0
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "File Path",
+        "Id": "68b04cb3a1704fe9b95b9b5b21b2cd04",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": -304.0,
+        "Y": 282.0
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "String",
+        "Id": "58aebef6a8b44dc393c65621a2411e72",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 41.176232086097343,
+        "Y": 412.65702603644377
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Boolean",
+        "Id": "dafa82dbbe0a4958bbc12b3b91df3b95",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 8.35727949043428,
+        "Y": 478.29493122776944
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Boolean",
+        "Id": "be42fa56b35d4734b09185cc52b8d190",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 6.4342302353438754,
+        "Y": 562.88693160593778
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Watch",
+        "Id": "b7639a8300154c86bf41e04be105a9c2",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 655.10289076833112,
+        "Y": 686.10457152332788
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Python Script",
+        "Id": "e35d564e2eb349fe916a9e17277855c3",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 900.56037320651615,
+        "Y": 375.87950108539542
+      }
+    ],
+    "Annotations": [],
+    "X": 125.8633880315453,
+    "Y": -52.570177020835331,
+    "Zoom": 0.568853839275299
+  }
+}
