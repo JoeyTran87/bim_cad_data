@@ -10,6 +10,7 @@ import pandas as pd
 import openpyxl
 
 import re
+import win32com.client
 
 def text_in_block(block,block_point,item_type = "Text"):
     global count_text, blocks_dic,texts
@@ -37,6 +38,7 @@ def text_in_block(block,block_point,item_type = "Text"):
                 sub_block = blocks_dic[item.Name]
                 text_in_block(sub_block,sub_block_point,item_type = "Text")
         except Exception as ex:
+            print(ex)
             logging.error(f"{ex}-{time_log()}")
             pass
 def time_log():
@@ -56,8 +58,8 @@ def browser_folder(path_dir,root = ""):
         elif ".dwg" in path:
             # print(f"\tFile: {path}")
             paths.append(f"{path_dir}\\{path}")
-def read_attributes():
-    import win32com.client
+
+def read_attributes():    
     acad = win32com.client.Dispatch("AutoCAD.Application")
     # iterate through all objects (entities) in the currently opened drawing
     # and if its a BlockReference, display its attributes.
@@ -84,7 +86,7 @@ if __name__ ==  '__main__':
 
     # BROWSE FOLDER
     paths = []
-    path_dir = input("Đường dẫn: ")#r"R:\BimESC\01_PROJECTS\SPAIN WAREHOUSE_EMERGENT\01-INCOME\210720 Full Set Design Submit to ECP"
+    path_dir =  r"F:\_NGHIEN CUU\_Github\bim_cad_data\py_autocad\dwg"#input("Đường dẫn: ")#r"R:\BimESC\01_PROJECTS\SPAIN WAREHOUSE_EMERGENT\01-INCOME\210720 Full Set Design Submit to ECP"
     browser_folder(path_dir,root = path_dir)
     # [print (p) for p in paths]
 
@@ -97,8 +99,9 @@ if __name__ ==  '__main__':
     acad = Autocad(create_if_not_exists=True, visible=True)
     if acad:  logging.info('Autocad Opened')
     
+    acad2 = win32com.client.Dispatch("AutoCAD.Application")
     # MỞ DOCUMENTS AUTOCAD
-    cad_doc_list = list(acad.app.Documents)
+    cad_doc_list = list(acad2.Documents)
     
     # SHOW LIST DOC
     [print(f"{i} : {cad_doc_list[i].Name}") for i in range(len(cad_doc_list))]
@@ -114,15 +117,8 @@ if __name__ ==  '__main__':
             continue
     logging.info(cad_doc.Name)
 
-    # MODEL SPACE
-    model_space = cad_doc.ModelSpace
-    paper_space = cad_doc.PaperSpace
-    logging.info([model_space.Name,paper_space.name])
-
-    # list_dic_block,list_block_name = create_list_dic_block_2(cad_doc)
-
     item_type = "Text"
-    ms = cad_doc.ModelSpace
+    ms = cad_doc.ModelSpace#cad_doc.ModelSpace
     block_names = []
     count_text = 0
     texts = {   "id":[],
@@ -136,15 +132,14 @@ if __name__ ==  '__main__':
     for i in range(blocks.Count):
         blocks_dic[blocks.Item(i).Name] = blocks.Item(i) 
 
-    for i in range(ms.Count):
+    for item in ms:#i in range(ms.Count):
         # print(ms.Item(i).ObjectName)
         try: # xử lí các item trong Doc
-            item = ms.Item(i)
-            item_name =  item.ObjectName
-            
+            # item = ms.Item(i)
+            item_name =  item.ObjectName            
             print(item.Name)
-            for att in  item.GetAttributes():
-                print(f"{att.TagString}:{att.TextString}")
+
+            
 
             if item_type in item_name:                
                 count_text += 1
@@ -159,27 +154,34 @@ if __name__ ==  '__main__':
                 texts["Z"].append(str(str(round(float(location[2]),2))))
 
             elif 'AcDbBlockReference' in item_name: # lấy ds tên block referent
-                # try: # xử lí Attribute của Block
-
-                atts = item.GetAttributes
-                print (f"Attribute Count = {atts.Count}")
-                print (f"Attribute Name = {atts.ObjectName}")
-                print (f"Attribute TextString = {atts.TextString}")
-
-                # except Exception as ex:
-                #     print(ex.args[0])
-                #     pass
-                
                 block_point = item.InsertionPoint 
                 block_point = [block_point[0],block_point[1],block_point[2]]
                 block = blocks_dic[item.Name]
+
+                # xử lí Attribute của Block
+                atts = item.GetAttributes()
+                for att in atts:
+                    try:
+                        att_id = f"{att.ObjectId}{atts.index(att)}"
+                        att_tag_name = att.TagString
+                        att_text = att.TextString
+                        att_point = att.InsertionPoint
+                        print(f"{att_tag_name}:{att_text}\t{att_point}")
+                        texts["id"].append(str(att_id))
+                        texts["TextString"].append(str(att_text))
+                        texts["X"].append(str(str(round(float(att_point[0])+float(block_point[0]),2))))
+                        texts["Y"].append(str(str(round(float(att_point[1])+float(block_point[1]),2))))
+                        texts["Z"].append(str(str(round(float(att_point[2])+float(block_point[2]),2))))
+                    except:
+                        pass
+                
                 text_in_block(block,block_point,item_type = "Text")
             
             elif "Dimension" in item_name:
                  pass        
         
         except Exception as ex:
-            # print(ex)
+            print(ex)
             logging.error(f"{ex}-{time_log()}")
             pass
     
