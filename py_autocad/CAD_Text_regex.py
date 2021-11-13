@@ -1,6 +1,7 @@
 import pandas as pd
+import re
 
-path = r"F:\_NGHIEN CUU\_Github\Python\py_autocad\dwg\Extract Text-211029.xls"
+path = r"Extract Text-211029.xls"
 excel = pd.ExcelFile(path)
 sheets = excel.sheet_names
 print (sheets)
