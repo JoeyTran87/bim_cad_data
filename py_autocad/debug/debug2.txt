@@ -1,0 +1,10 @@
+--------------------
+Program START : 11-12-2021 22:27:44
+Autocad Opened
+Mat bang cot.dwg
+Program END : 11-12-2021 22:31:36
+--------------------
+Program START : 12-12-2021 10:26:37
+Autocad Opened
+Extract Text-211029.dwg
+Program END : 12-12-2021 10:26:51

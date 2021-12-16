@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+"""Xử lí: thiết lập màu + ẩn hiện đối tượng"""
 from comtypes import IID
 import pyautocad
 from pyautocad import Autocad, APoint,aDouble, ACAD
@@ -269,7 +269,8 @@ count = None
 if __name__ ==  '__main__':
     """"""
     # DEBUGGER
-    debug_file_name = f"{os.getcwd()}\\debug\\debug.txt" #<---  SỬ DUNG CHO 1 LẦN DEBUG
+    cwd = os.getcwd()
+    debug_file_name = f"{cwd}\\py_autocad\\debug\\debug.txt" #<---  SỬ DUNG CHO 1 LẦN DEBUG
     # debug_file_name = f"{os.getcwd()}\\debug\\debug-{time.strftime('%y%m%d %H%M%S',time.localtime(time.time()))}.txt" #<---  SỬ DUNG CHO NHIỀU LẦN DEBUG
     logging.basicConfig(filename = debug_file_name,level=logging.INFO, format='%(message)s')
     # logging.disable(logging.CRITICAL) ########### <---  UNCOMMNEND khi không cần debug nữa

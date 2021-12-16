@@ -1,0 +1,4 @@
+Program START
+Autocad Opened
+Mat bang cot.dwg
+['*Model_Space', '*Paper_Space']
